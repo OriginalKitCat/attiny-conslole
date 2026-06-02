@@ -3915,7 +3915,7 @@
 		(uuid "254b2f37-583c-4fd0-8190-f5e6e77f26aa")
 	)
 	(label "right"
-		(at 71.12 41.91 180)
+		(at 71.12 39.37 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4005,7 +4005,7 @@
 		(uuid "8cb1a969-49df-4a29-bb67-d37924961339")
 	)
 	(label "left"
-		(at 69.85 132.08 180)
+		(at 69.85 134.62 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4015,7 +4015,7 @@
 		(uuid "8ee5d266-0c6c-4347-8bbd-118a8aec5b0b")
 	)
 	(label "right"
-		(at 69.85 134.62 180)
+		(at 69.85 132.08 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4145,7 +4145,7 @@
 		(uuid "ebb20503-7afa-4bf7-918b-60b7a4dbb3d9")
 	)
 	(label "left"
-		(at 71.12 39.37 180)
+		(at 71.12 41.91 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4274,7 +4274,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
 			(at 194.31 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -4443,7 +4443,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_2x03_P2.54mm_Vertical"
 			(at 128.27 158.75 0)
 			(hide yes)
 			(show_name no)
@@ -4987,7 +4987,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
 			(at 205.74 38.608 90)
 			(hide yes)
 			(show_name no)
@@ -5518,7 +5518,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Buzzer_Beeper:MagneticBuzzer_Kobitone_254-EMB84Q-RO"
 			(at 244.475 109.22 90)
 			(hide yes)
 			(show_name no)
@@ -5676,7 +5676,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 130.81 81.28 0)
 			(hide yes)
 			(show_name no)
@@ -5756,7 +5756,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_Slide_SPDT_Angled_CK_OS102011MA1Q"
 			(at 232.41 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -5836,7 +5836,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_Slide_SPDT_Angled_CK_OS102011MA1Q"
 			(at 236.22 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -5996,7 +5996,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 164.592 72.39 90)
 			(hide yes)
 			(show_name no)
@@ -6156,7 +6156,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal"
 			(at 120.142 71.12 90)
 			(hide yes)
 			(show_name no)
@@ -6316,7 +6316,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Horizontal"
 			(at 156.21 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -6791,7 +6791,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Battery:BatteryHolder_Keystone_1060_1x2032"
 			(at 247.65 58.166 90)
 			(hide yes)
 			(show_name no)
@@ -6984,7 +6984,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical"
 			(at 151.13 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -7148,7 +7148,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
 			(at 173.99 82.55 0)
 			(hide yes)
 			(show_name no)
