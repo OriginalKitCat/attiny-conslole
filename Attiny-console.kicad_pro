@@ -76,7 +76,16 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "courtyards_overlap|46155000|44255000|8cdfeba1-4be0-469b-bfd3-946a86e4d125|fe897405-9e06-4686-ab18-c2f1164b1549",
+          ""
+        ],
+        [
+          "starved_thermal|36488679|31371319|b1379dee-ba0e-4146-9797-34a4e7a33d1c|1f6b7ec5-af22-4438-8d8b-420ca86aadcf|B.Cu",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -661,7 +670,7 @@
         "uuid": "ad8cc491-6463-4002-a5cd-46bce038ae92"
       }
     ],
-    "used_designators": "",
+    "used_designators": "Brd1",
     "variants": []
   },
   "sheets": [
